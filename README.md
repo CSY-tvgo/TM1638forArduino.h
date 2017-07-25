@@ -1,4 +1,4 @@
-TM1638forArduino  
+TM1638 for Arduino  
 ==================
 This is my `first` uploaded git and thanks to [moozzyk's TM1638 git](https://github.com/moozzyk/TM1638).  
 This .h file is used to let `TM1638` work with `Arduino`.  
@@ -11,7 +11,7 @@ This .h file is used to let `TM1638` work with `Arduino`.
 >Reset the LED screen.  
 >
 >* `setLed(uint8_t value, uint8_t position);`  
->Let the corresponding Led bulb to be lightened.
+>Let the corresponding Led bulb to be lightened.  
 >value is 0 or 1.  
 >position is from 0 to 7.
 >
