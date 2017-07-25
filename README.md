@@ -4,7 +4,7 @@ This is my `first` uploaded git and thanks to [moozzyk's TM1638 git](https://git
 This .h file is used to let `TM1638` work with `Arduino`.  
 
 
-* The pins of strobe, clock and data are needed to be defined.
+>* The pins of strobe, clock and data are needed to be defined.  
 >Functions:  
 >* `reset();`  
 >Reset the LED screen.  
